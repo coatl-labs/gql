@@ -1,0 +1,28 @@
+{
+  "name": "@coatl/gql",
+  "version": "0.0.2",
+  "description": "minimal graphql client written in typescript with zero dependencies",
+  "main": "lib/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coatl-labs/gql.git"
+  },
+  "keywords": [
+    "gql",
+    "graphql",
+    "client",
+    "http",
+    "client",
+    "query"
+  ],
+  "author": "Coatl | Carlos Burelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coatl-labs/gql/issues"
+  },
+  "homepage": "https://github.com/coatl-labs/gql#readme"
+}
